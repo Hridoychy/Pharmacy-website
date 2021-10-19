@@ -1,0 +1,16 @@
+.cart img{
+    width: 300px;
+    height: 200px;
+}
+.backgroundColor{
+    background-color: rgb(211, 216, 224);
+   
+}
+.backgroundColor.hover{
+    background-color: aliceblue;
+}
+
+.cart {
+    height: 500px;
+    overflow: hidden;
+}

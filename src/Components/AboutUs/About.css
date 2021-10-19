@@ -1,0 +1,17 @@
+
+ .form{
+    height: 300px;
+    width: 50%;
+} 
+@media only screen and (max-width:688px) {
+    .About-us{
+        grid-template-columns: repeat(1,1fr);
+    }
+    
+}
+@media only screen and (min-width:689px) and (max-width:991px) {
+    .About-us{
+        grid-template-columns: repeat(2,1fr);
+    }
+    
+}
